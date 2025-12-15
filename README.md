@@ -52,7 +52,7 @@ This clears blocked states and allows TorGuard helpers to register correctly.
 
 ## 📁 WireGuard Config Files
 
-Download WireGuard `.conf` files from the TorGuard dashboard.
+Download WireGuard `.conf` files from the TorGuard client dashboard [here](https://torguard.net/tgconf.php?action=vpn-openvpnconfig)
 
 **IMPORTANT:** Each file must be named like:
 
