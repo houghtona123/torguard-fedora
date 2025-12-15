@@ -125,7 +125,7 @@ Doing the above **fixes the backend** the GUI depends on.
 
 ## 📜 WireGuard CLI Menu Script
 
-Create the script (or download [here](./wg-menu.sh/):
+Create the script (or download [here](./wg-menu.sh/) ):
 
 ```bash
 mkdir -p ~/bin
