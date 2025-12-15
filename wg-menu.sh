@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
+# ====================================================
+# torguard wireguard set script menu
+# ====================================================
+
 set -euo pipefail
 
 need_cmd() { command -v "$1" >/dev/null || exit 1; }
